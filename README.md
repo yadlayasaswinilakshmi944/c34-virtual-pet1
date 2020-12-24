@@ -1,2 +1,1 @@
-# c35-virtual-pet
-virtual pet
+# Virtual-pet-1
